@@ -33,7 +33,7 @@ npm run package
 ```
 ## Notes
 
-1. To bridge Electron's and React together, you need to use a special script called a preload in preload.ts.
+1. To bridge Electron's and React together, you need to use a special script called a preload in `./src/electron/preload.ts`.
 2. You can add external resources (such as configuration files) to the project. Place the required file in the path `./src/extraResources/your-extra-file`. The path to external resources can be changed in `./src/forge.config.ts`:
 ```javascript
   const config: ForgeConfig = {
