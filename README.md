@@ -46,7 +46,6 @@ npm run package
   packagerConfig: {
     asar: true,
     extraResource: ["./src/extraResources"],
-    icon: "./public/icon",
   },
   ...
 ```
