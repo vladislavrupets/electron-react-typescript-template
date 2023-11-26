@@ -44,6 +44,6 @@ npm run package
   },
   ...
 ```
-3. For additional questions, please refer to the [official Electron documentation](https://electronjs.org/docs) and [Electron Forge documentation](https://www.electronforge.io/docs).
+3. For additional information, please refer to the [official Electron documentation](https://electronjs.org/docs) and [Electron Forge documentation](https://www.electronforge.io/docs).
 
 
