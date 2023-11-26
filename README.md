@@ -24,6 +24,12 @@ cd electron-react-typescript-template
 npm install
 ```
 
+*Start the application:*
+
+``` bash
+npm start
+```
+
 ## App packaging
 
 *Package the application (for any platform)*
