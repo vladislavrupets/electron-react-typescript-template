@@ -49,6 +49,7 @@ npm run package
   },
   ...
 ```
+4. Warnings `[19376:1215/105605.753:INFO:CONSOLE(2)] "Unable to load preload script...` and `[19376:1215/105605.754:INFO:CONSOLE(2)] "Error: ENOENT: no such file or directory, open...` occur because of the babel-loader, which is used to make routing work correctly in React. Warnings can be ignored.
 3. For additional information, please refer to the [official Electron documentation](https://electronjs.org/docs) and [Electron Forge documentation](https://www.electronforge.io/docs).
 
 
